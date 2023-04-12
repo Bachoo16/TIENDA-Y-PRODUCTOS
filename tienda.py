@@ -41,15 +41,15 @@ class Tienda:
                 
 tienda = Tienda("Mi tienda")
 
-producto1 = Producto("Libreta", 10.99, "Oficina")
-producto2 = Producto("Camiseta", 15.99, "Ropa")
-producto3 = Producto("Bicicleta", 249.99, "Deportes")
-producto4 = Producto("Televisor", 429.99, "Tecnologia")
-producto5 = Producto("Telefono", 399.99, "Tecnologia")
-producto6 = Producto("Monitor", 534.99, "Tecnologia")
-producto7 = Producto("Gps", 149.99, "Tecnologia")
-producto8 = Producto("Jordan retro 4", 557.282, "Calzado")
-producto9 = Producto("ASUS TUF GAMING A15",699.990, "Tecnologia")
+producto1 = Producto("Libro", 10.99, "Oficina")
+producto2 = Producto("poleron", 15.99, "Ropa")
+producto3 = Producto("pesas", 249.99, "Deportes")
+producto4 = Producto("monitor", 429.99, "Tecnologia")
+producto5 = Producto("pc", 399.99, "Tecnologia")
+producto6 = Producto("Mouse", 534.99, "Tecnologia")
+producto7 = Producto("localizador", 149.99, "Tecnologia")
+producto8 = Producto("huarache black", 557.282, "Calzado")
+producto9 = Producto("teclado",699.990, "Tecnologia")
 
 
 tienda.agregar_producto(producto1)
